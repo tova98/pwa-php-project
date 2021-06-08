@@ -5,6 +5,6 @@ You need [XAMPP](https://www.apachefriends.org/index.html) and [database](https:
 Import the databse file in 'phpmyadmin'.
 It may also be necessary to set 'phpmyadmin' port to 8080.  
 <br>
-Root account:  
+Admin account:  
 username: root  
 password: rootpass
